@@ -1,8 +1,13 @@
 {
   "AboutPage": "",
   "MainPage": "",
+  "ThrowBug": "ThrowBug",
   "fghfh": "fghfh",
   "language": "",
   "mainPage": "",
-  "toggle": ""
+  "pageNotFound": "pageNotFound",
+  "throw error": "throw error",
+  "toggle": "",
+  "unforeseenError": "unforeseenError",
+  "updatePage": "updatePage"
 }

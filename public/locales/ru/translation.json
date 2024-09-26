@@ -2,5 +2,9 @@
   "Test translate": "Тестовый перевод",
   "translate": "Перевод",
   "language": "Русский",
-  "toggle": "Toggle"
+  "toggle": "Toggle",
+  "pageNotFound": "Страница не найдена",
+  "unforeseenError": "Непредвиденная ошибка",
+  "updatePage": "Обновить страницу",
+  "ThrowBug": "Throw error"
 }
