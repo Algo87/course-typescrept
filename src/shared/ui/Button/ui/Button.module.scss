@@ -28,6 +28,14 @@
     border: none;
 }
 
+.clearInverted {
+    padding: 0;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--inverted-primary-color);
+}
+
 .square {
     padding: 0;
 }

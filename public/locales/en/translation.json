@@ -7,5 +7,7 @@
   "unforeseenError": "Непредвиденная ошибка",
   "updatePage": "Обновить страницу",
   "ThrowBug": "Throw error",
-  "shortLang": "Ru"
+  "shortLang": "Ru",
+  "signin": "Войти",
+  "lorem100": "Lorem100"
 }
