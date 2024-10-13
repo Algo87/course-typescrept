@@ -3,15 +3,18 @@
   "MainPage": "MainPage",
   "ThrowBug": "ThrowBug",
   "decrement": "decrement",
+  "enter": "enter",
   "fghfh": "fghfh",
   "increment": "increment",
   "language": "language",
   "lorem100": "lorem100",
   "mainPage": "mainPage",
   "pageNotFound": "pageNotFound",
+  "password": "password",
   "signin": "signin",
   "throw error": "throw error",
   "toggle": "toggle",
   "unforeseenError": "unforeseenError",
-  "updatePage": "updatePage"
+  "updatePage": "updatePage",
+  "username": "username"
 }

@@ -11,5 +11,8 @@
   "signin": "Войти",
   "lorem100": "Lorem100",
   "increment": "increment",
-  "decrement": "decrement"
+  "decrement": "decrement",
+  "enter": "Войти",
+  "username": "Введите username",
+  "password": "Введите пароль"
 }
