@@ -22,13 +22,21 @@ i18n
     .init({
         fallbackLng: 'ru',
         debug: __IS_DEV__,
-
+        lng: 'ru',
         interpolation: {
             escapeValue: false, // not needed for react as it escapes by default
         },
         backend: {
-            loadPath: '/locales/{{lng}}/{{ns}}.json',
+            loadPath: () => {
+                const isStorybook = window.location.pathname.includes('storybook-static');
+                return isStorybook
+                    ? '/storybook-static/locales/{{lng}}/{{ns}}.json'
+                    : '/locales/{{lng}}/{{ns}}.json';
+            },
         },
+        // backend: {
+        //     loadPath: '/locales/{{lng}}/{{ns}}.json',
+        // },
     });
 
 export default i18n;

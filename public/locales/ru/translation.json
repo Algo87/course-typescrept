@@ -1,11 +1,21 @@
 {
-  "Test translate": "Тестовый перевод",
-  "translate": "Перевод",
-  "language": "Русский",
+  "Test translate": "Test translate",
+  "translate": "Translate",
+  "language": "English",
   "toggle": "Toggle",
-  "pageNotFound": "Страница не найдена",
+  "pageNotFound": "Page not found",
   "unforeseenError": "Непредвиденная ошибка",
   "updatePage": "Обновить страницу",
   "ThrowBug": "Throw error",
-  "shortLang": "En"
+  "shortLang": "En",
+  "signin": "Войти",
+  "lorem100": "Lorem100",
+  "increment": "increment",
+  "decrement": "decrement",
+  "enter": "Войти",
+  "username": "Введите username",
+  "password": "Введите пароль",
+  "authForm": "Форма авторизации",
+  "loginError": "Name or password is not correct",
+  "logout": "Выйти"
 }
